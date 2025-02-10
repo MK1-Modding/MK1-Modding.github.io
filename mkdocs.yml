@@ -28,10 +28,10 @@ nav:
             - Overview: ubl/events/events-overview.md
             - LoadAssets: ubl/events/LoadAssets/LoadAssets.md
             - Mesh related:
-                    - ChangeFace: getting-started/quick-start.md
-                    - ChangeBody: getting-started/quick-start.md
-                    - ChangeHair: getting-started/quick-start.md
-                    - ChangeCloth: getting-started/quick-start.md
+                    - ChangeFace: ubl/events/Mesh/ChangeFace/ChangeFace.md
+                    - ChangeBody: ubl/events/Mesh/ChangeBody/ChangeBody.md
+                    - ChangeHair: ubl/events/Mesh/ChangeHair/ChangeHair.md
+                    - ChangeCloth: ubl/events/Mesh/ChangeCloth/ChangeCloth.md
             - Gear related:
                     - ChangeMask: getting-started/quick-start.md
                     - ChangeCowl: getting-started/quick-start.md

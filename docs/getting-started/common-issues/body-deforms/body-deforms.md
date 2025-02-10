@@ -25,4 +25,4 @@ To fix this, do the following:
 
 	![PostProcessSection](post-process-section.png)
 
-3. Drag and drop the PostCR anim blueprint and your character will now animate properly
+3. Drag and drop the PostCR anim blueprint and your character will now animate properly.
