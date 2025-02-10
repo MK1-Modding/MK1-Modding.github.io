@@ -1,0 +1,61 @@
+site_name: Mortal Kombat 1 Modding Docs
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Getting started:
+      - Setting up modding environment: getting-started/introduction.md
+      - Installation: getting-started/installation.md
+      - Fixing common issues:
+            - Body deformations in poses: getting-started/common-issues/body-deforms/body-deforms.md
+  - UBL Framework:
+      - Introduction: getting-started/introduction.md
+      - Installation: getting-started/installation.md
+      - Events:
+            - Overview: ubl/events/events-overview.md
+            - LoadAssets: ubl/events/LoadAssets/LoadAssets.md
+            - Mesh related:
+                    - ChangeFace: getting-started/quick-start.md
+                    - ChangeBody: getting-started/quick-start.md
+                    - ChangeHair: getting-started/quick-start.md
+                    - ChangeCloth: getting-started/quick-start.md
+            - Gear related:
+                    - ChangeMask: getting-started/quick-start.md
+                    - ChangeCowl: getting-started/quick-start.md
+                    - ChangeGearMask: getting-started/quick-start.md
+                    - ChangeGearCowl: getting-started/quick-start.md
+            - Material related:
+                    - ChangeFaceOverrideMaterials: getting-started/quick-start.md
+                    - ChangeBodyOverrideMaterials: getting-started/quick-start.md
+                    - ChangeHairOverrideMaterials: getting-started/quick-start.md
+                    - ChangeClothOverrideMaterials: getting-started/quick-start.md
+            - Sound related:
+                    - ChangeGrunts: getting-started/quick-start.md
+                    - ChangeVoice: getting-started/quick-start.md
+            - Miscellaneous:
+                    - ChangeBlood: getting-started/quick-start.md
+                    - ChangeSkinFX: getting-started/quick-start.md
+                    - ChangeMoveset: getting-started/quick-start.md
+                    
+  - FAQ: faq.md
+  
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.mark
+  - attr_list
