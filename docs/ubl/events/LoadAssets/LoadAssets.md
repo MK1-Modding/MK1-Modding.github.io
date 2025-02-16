@@ -1,11 +1,13 @@
 # LoadAssets event
-This event loads any assets provided in the **AssetPaths** string array.
+This event loads any assets provided in the **Asset Paths** string array.
 
 ![LoadAssets](loadassets.png)
 
 ## Parameters
 
-- AssetPaths: An array of strings containing the **full paths** to the assets to be loaded
+| Parameter | Type | Description |
+|-----------|------|-------------|
+| **`Asset Paths`** | `TArray` | An array of strings containing the **full paths** to the assets to be loaded. |
 
 ## Example usage
 ![Example](example.png)

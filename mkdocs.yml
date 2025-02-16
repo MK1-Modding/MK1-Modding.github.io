@@ -22,10 +22,10 @@ nav:
       - Fixing common issues:
             - Body deformations in poses: getting-started/common-issues/body-deforms/body-deforms.md
   - UBL Framework:
-      - Introduction: getting-started/introduction.md
-      - Installation: getting-started/installation.md
+      - Overview: ubl/ubl-overview.md
+      - Installation: ubl/ubl-install-guide.md
       - Events:
-            - Overview: ubl/events/events-overview.md
+            - Events Overview: ubl/events/events-overview.md
             - LoadAssets: ubl/events/LoadAssets/LoadAssets.md
             - Mesh related:
                     - ChangeFace: ubl/events/Mesh/ChangeFace/ChangeFace.md
@@ -33,22 +33,20 @@ nav:
                     - ChangeHair: ubl/events/Mesh/ChangeHair/ChangeHair.md
                     - ChangeCloth: ubl/events/Mesh/ChangeCloth/ChangeCloth.md
             - Gear related:
-                    - ChangeMask: getting-started/quick-start.md
-                    - ChangeCowl: getting-started/quick-start.md
-                    - ChangeGearMask: getting-started/quick-start.md
-                    - ChangeGearCowl: getting-started/quick-start.md
+                    - ChangeGearMask: ubl/events/Gear/ChangeGearMask/ChangeGearMask.md
+                    - ChangeGearCowl: ubl/events/Gear/ChangeGearCowl/ChangeGearCowl.md
             - Material related:
-                    - ChangeFaceOverrideMaterials: getting-started/quick-start.md
-                    - ChangeBodyOverrideMaterials: getting-started/quick-start.md
-                    - ChangeHairOverrideMaterials: getting-started/quick-start.md
-                    - ChangeClothOverrideMaterials: getting-started/quick-start.md
+                    - ChangeFaceOverrideMaterials: ubl/events/OverrideMats/ChangeFaceOverrideMaterials/ChangeFaceOverrideMaterials.md
+                    - ChangeBodyOverrideMaterials: ubl/events/OverrideMats/ChangeBodyOverrideMaterials/ChangeBodyOverrideMaterials.md
+                    - ChangeHairOverrideMaterials: ubl/events/OverrideMats/ChangeHairOverrideMaterials/ChangeHairOverrideMaterials.md
+                    - ChangeClothOverrideMaterials: ubl/events/OverrideMats/ChangeClothOverrideMaterials/ChangeClothOverrideMaterials.md
             - Sound related:
-                    - ChangeGrunts: getting-started/quick-start.md
-                    - ChangeVoice: getting-started/quick-start.md
+                    - ChangeGrunts: ubl/events/Sounds/ChangeGrunts/ChangeGrunts.md
+                    - ChangeVoice: ubl/events/Sounds/ChangeVoice/ChangeVoice.md
             - Miscellaneous:
-                    - ChangeBlood: getting-started/quick-start.md
-                    - ChangeSkinFX: getting-started/quick-start.md
-                    - ChangeMoveset: getting-started/quick-start.md
+                    - ChangeBlood: ubl/events/Miscellaneous/ChangeBlood/ChangeBlood.md
+                    - ChangeSkinFX: ubl/events/Miscellaneous/ChangeSkinFX/ChangeSkinFX.md
+                    - ChangeMoveset: ubl/events/Miscellaneous/ChangeMoveset/ChangeMoveset.md
                     
   - FAQ: faq.md
   
