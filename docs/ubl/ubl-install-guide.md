@@ -5,7 +5,7 @@ Follow these steps to install the **UBL Framework** and start using it in your g
 ---
 
 ## 📥 **Step 1: Download UBL**
-1. Download the latest **UBL Framework** from **[NexusMods](#)** (insert actual link).
+1. Download the latest **UBL Framework** from **[NexusMods](https://www.nexusmods.com/mortalkombat/mods/1138/)**.
 2. Locate your **game’s root folder**:
    - **Steam:** Right-click **Mortal Kombat 1** → **Manage** → **Browse Local Files**.
 
