@@ -11,7 +11,7 @@ UBL Events allow modders to interact with the game’s mechanics **without modif
 
 ## 📖 **UBL Event Format & Usage**
 
-All UBL Events in this documentation follow a **standardized format** to ensure consistency and ease of use.
+All UBL Events in this documentation follow a **standardized format** to ensure consistency.
 
 📌 **How to Navigate:**  
 - **Refer to the sidebar** to browse individual event documentation and usage examples.  

@@ -12,7 +12,7 @@ This event replaces the target character's 'mask' (wether it'd be their gear pie
 | **`Palette Name` (Optional)** | `FString` | The name of the palette you are targeting |
 | **`Target Gear`** | `FString` | The **blueprint** name of the targeted gear |
 | **`New Gear Mask`** | `FString` | The **blueprint** name of the new 'gear mask' class. This blueprint class typically ends with the '_Mask' extension. A value of 'None' will set this gear to nothing. |
-| **`New Mask Class`** | `FString` | The **blueprint** name of the new 'mask' class. A value of 'Default__BlueprintGeneratedClass' can be used as a placeholder to set this class to nothing (useful for removing the mask entirely) |
+| **`New Mask Class`** | `FString` | The **blueprint** name of the new 'mask' class. A value of 'None' will set this class to nothing (useful for removing the mask entirely) |
 
 !!! note "Gear mask and mask class"
 	These two are distinctilly different assets! The mask class only needs to be changed for characters for whom their gear is not their mask! Otherwise, this should only be changed if you want to completely remove the mask!

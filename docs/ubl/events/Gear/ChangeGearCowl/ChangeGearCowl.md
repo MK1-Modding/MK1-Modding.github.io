@@ -14,7 +14,7 @@ This event replaces the target character's 'cowl gear piece' with the provided o
 | **`Palette Name` (Optional)** | `FString` | The name of the palette you are targeting |
 | **`Target Gear`** | `FString` | The **blueprint** name of the targeted gear |
 | **`New Gear Cowl`** | `FString` | The **blueprint** name of the new 'gear cowl' class. This blueprint class typically ends with the '_Cowl' extension. A value of 'None' will set this gear to nothing |
-| **`New Cowl Class`** | `FString` | The **blueprint** name of the new 'cowl' class. A value of 'Default__BlueprintGeneratedClass' can be used as a placeholder to set this class to nothing (useful for removing the cowl entirely) |
+| **`New Cowl Class`** | `FString` | The **blueprint** name of the new 'cowl' class. A value of 'None' will set this class to nothing (useful for removing the cowl entirely) |
 
 !!! note "Gear cowl and cowl class"
 	These two are distinctilly different assets! The cowl class only needs to be changed if you want to completely remove the cowl!

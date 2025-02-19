@@ -24,6 +24,7 @@ nav:
   - UBL Framework:
       - Overview: ubl/ubl-overview.md
       - Installation: ubl/ubl-install-guide.md
+      - Using UBL in your mods: ubl/ubl-usage-guide.md
       - Events:
             - Events Overview: ubl/events/events-overview.md
             - LoadAssets: ubl/events/LoadAssets/LoadAssets.md

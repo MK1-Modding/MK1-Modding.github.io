@@ -29,8 +29,7 @@ Future updates will expand UBL’s capabilities, making it even more powerful fo
 
 ### 📌 **For Modders: Using UBL**  
 UBL provides a framework for **modders to integrate custom events into their mods**.  
-📌 **Refer to the sidebar** to browse individual event documentation and usage examples.  
 
-🔗 **[Using UBL with Your Mods](using-ubl.md)** – A beginner's guide for integrating UBL into your mods.
+🔗 **[Using UBL with Your Mods](ubl-usage-guide.md)** – A beginner's guide for integrating UBL into your mods.
 
 ---
