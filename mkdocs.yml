@@ -23,6 +23,10 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
         position: header
+  extra:
+    social:
+      title: "Mortal Kombat 1 Modding Docs"
+      description: "Comprehensive documentation for Mortal Kombat 1 modding, including the UBL framework."
         
 repo_url: https://github.com/MK1-Modding/UBLScripts
 repo_name: UBLScripts
