@@ -1,6 +1,15 @@
 site_name: Mortal Kombat 1 Modding Docs
 theme:
   name: material
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - toc.follow
+    - content.code.copy
+    - content.code.annotate
+    - search.highlight
+    - navigation.footer
+      
   palette:
     - scheme: default
       primary: indigo
@@ -13,6 +22,14 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+        position: header
+        
+repo_url: https://github.com/MK1-Modding/UBLScripts
+repo_name: UBLScripts
+
+plugins:
+  - search
+  - social
 
 nav:
   - Home: index.md
