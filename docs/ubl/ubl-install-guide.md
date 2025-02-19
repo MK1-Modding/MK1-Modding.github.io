@@ -4,6 +4,14 @@ Follow these steps to install the **UBL Framework** and start using it in your g
 
 ---
 
+## ⚠️ **Pre-Requisites**
+Before installing UBL, you must have the **MK12TTH** installed.  
+🔗 **[Download MK12TTH from NexusMods](https://www.nexusmods.com/mortalkombat/mods/62)**.
+
+✅ **Make sure MK12TTH is installed and working before proceeding!**
+
+---
+
 ## 📥 **Step 1: Download UBL**
 1. Download the latest **UBL Framework** from **[NexusMods](https://www.nexusmods.com/mortalkombat/mods/1138/)**.
 2. Locate your **game’s root folder**:
