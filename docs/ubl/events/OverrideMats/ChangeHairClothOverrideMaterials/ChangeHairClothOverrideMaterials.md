@@ -1,7 +1,7 @@
-# ChangeFaceOverrideMaterials event
-This event replaces the target character's face **override** materials with the provided ones. This typically applies to seasonal skins.
+# ChangeHairClothOverrideMaterials event
+This event replaces the target character's hair cloth **override** materials with the provided ones. This typically applies to seasonal skins.
 
-![ChangeFaceOverrideMaterials](changefaceoverridematerials.png)
+![ChangeHairClothOverrideMaterials](changehairclothoverridematerials.png)
 
 ## Parameters
 

@@ -48,12 +48,15 @@ nav:
       - Using UBL in your mods: ubl/ubl-usage-guide.md
       - Events:
             - Events Overview: ubl/events/events-overview.md
-            - LoadAssets: ubl/events/LoadAssets/LoadAssets.md
+            - Asset loading:
+                - LoadAssets: ubl/events/LoadAssets/LoadAssets.md
+                - LoadMKAssetLibraries: ubl/events/LoadMKAssetLibraries/LoadMKAssetLibraries.md
             - Mesh related:
                     - ChangeFace: ubl/events/Mesh/ChangeFace/ChangeFace.md
                     - ChangeBody: ubl/events/Mesh/ChangeBody/ChangeBody.md
                     - ChangeHair: ubl/events/Mesh/ChangeHair/ChangeHair.md
                     - ChangeCloth: ubl/events/Mesh/ChangeCloth/ChangeCloth.md
+                    - ChangeHairCloth: ubl/events/Mesh/ChangeHairCloth/ChangeHairCloth.md
             - Gear related:
                     - ChangeGearMask: ubl/events/Gear/ChangeGearMask/ChangeGearMask.md
                     - ChangeGearCowl: ubl/events/Gear/ChangeGearCowl/ChangeGearCowl.md
@@ -62,15 +65,17 @@ nav:
                     - ChangeBodyOverrideMaterials: ubl/events/OverrideMats/ChangeBodyOverrideMaterials/ChangeBodyOverrideMaterials.md
                     - ChangeHairOverrideMaterials: ubl/events/OverrideMats/ChangeHairOverrideMaterials/ChangeHairOverrideMaterials.md
                     - ChangeClothOverrideMaterials: ubl/events/OverrideMats/ChangeClothOverrideMaterials/ChangeClothOverrideMaterials.md
+                    - ChangeHairClothOverrideMaterials: ubl/events/OverrideMats/ChangeHairClothOverrideMaterials/ChangeHairClothOverrideMaterials.md
             - Sound related:
                     - ChangeGrunts: ubl/events/Sounds/ChangeGrunts/ChangeGrunts.md
                     - ChangeVoice: ubl/events/Sounds/ChangeVoice/ChangeVoice.md
+            - Animations related:
+                    - ChangeFacialAnims: ubl/events/Anims/ChangeFacialAnims/ChangeFacialAnims.md
             - Miscellaneous:
                     - ChangeBlood: ubl/events/Miscellaneous/ChangeBlood/ChangeBlood.md
                     - ChangeSkinFX: ubl/events/Miscellaneous/ChangeSkinFX/ChangeSkinFX.md
                     - ChangeMoveset: ubl/events/Miscellaneous/ChangeMoveset/ChangeMoveset.md
-                    
-  - FAQ: faq.md
+                    - ForceAddonMoveset: ubl/events/Miscellaneous/ForceAddonMoveset/ForceAddonMoveset.md
   
 markdown_extensions:
   - admonition

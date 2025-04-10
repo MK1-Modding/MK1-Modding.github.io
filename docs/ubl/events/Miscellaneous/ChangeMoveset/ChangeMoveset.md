@@ -16,6 +16,6 @@ This event replaces the target character's moveset with the provided one.
 ![Example](example.png)
 
 !!! warning "Loading"
-	Any new referenced moveset must be first loaded through the LoadAssets event!
+	Any new referenced moveset must be first loaded through the [LoadAssets](../../LoadAssets/LoadAssets.md) event!
 	
 	Tip: Moveset assets are located in the "/Game/Disk/Shared/Game/GeneratedScripts/" folder

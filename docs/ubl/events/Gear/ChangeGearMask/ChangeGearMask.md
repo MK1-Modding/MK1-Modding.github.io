@@ -31,4 +31,6 @@ This event replaces the target character's 'mask' (wether it'd be their gear pie
 
 
 !!! warning "Loading"
-	Any new referenced blueprint class assets must be first loaded through the LoadAssets event! All BlueprintGeneratedClasses (starting with **BP_**) must be loaded and referenced by appending the **_C suffix** to their name!
+	Any new referenced blueprint class assets must be first loaded through the [LoadAssets](../../LoadAssets/LoadAssets.md) event!
+	
+	All BlueprintGeneratedClasses (starting with **BP_**) must be loaded and referenced by appending the **_C suffix** to their name!

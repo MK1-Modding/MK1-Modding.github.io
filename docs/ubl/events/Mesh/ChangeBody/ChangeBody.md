@@ -16,4 +16,4 @@ This event replaces the target character's body with the provided mesh.
 ![Example](example.png)
 
 !!! warning "Loading"
-	Any new referenced body must be first loaded through the LoadAssets event!
+	Any new referenced body must be first loaded through the [LoadAssets](../../LoadAssets/LoadAssets.md) event!

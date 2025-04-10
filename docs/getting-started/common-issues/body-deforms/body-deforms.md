@@ -21,7 +21,7 @@ To fix this, do the following:
 	Select the skeleton for your character and click ok, you do not need to select a parent class.
 	Name this anim blueprint the **exact same** as the one inside UModel/FModel.
 
-2. Once you are done, navigate back to your imported mesh and open it. Scroll down and find this section:
+2. Once you are done, navigate back to your imported mesh and open it. Scroll down and find the "Post process anim blueprint" under the "Skeletal Mesh" section:
 
 	![PostProcessSection](post-process-section.png)
 

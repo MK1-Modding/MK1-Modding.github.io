@@ -12,10 +12,11 @@ This event replaces the target character's cloth **override** materials with the
 | **`Palette Name` (Optional)** | `FString` | The name of the palette you are targeting |
 | **`Override Materials`** | `TArray` | An array of strings containing the name of the new override materials. Order defines material position within the mesh. A value of 'None' can be used in between materials. |
 
+!!! note "Empty array"
+	An empty array will clear any existing override materials! (Useful for seasonal skins)
+
 ## Example usage
-| ![Example](example.png) | ![Example empty](example_empty.png) |
-|:---:|:---:|
-| **Example** | **Example with empty array** |
+![Example](example.png)
 
 !!! warning "Loading"
-	Any new referenced materials must be first loaded through the LoadAssets event!
+	Any new referenced materials must be first loaded through the [LoadAssets](../../LoadAssets/LoadAssets.md) event!

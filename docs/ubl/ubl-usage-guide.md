@@ -1,12 +1,12 @@
 # 🔷 Using UBL in Your Mod
 
-This guide explains how to **integrate the UBL framework** into your Unreal Engine mod.
+This guide explains how to **integrate the UBL framework** into your MK1 mods.
 
 ---
 
 ## 📥 **1. Download the UBLSampleProject**
 To begin integrating **UBL** into your mod, **download the UBLSampleProject** from **[GitHub](https://github.com/MK1-Modding/SampleUBLProject)**.  
-This project contains **pre-made UBL events**, making it easy to start modding.
+This project contains **pre-made UBL events**, making it easy to get started.
 
 ### 🔹 **Tip:** Adding UBL to an Existing Project
 If you're adding UBL to an existing **Unreal Engine project**, simply **copy** the following folder into your project's `Content` directory:

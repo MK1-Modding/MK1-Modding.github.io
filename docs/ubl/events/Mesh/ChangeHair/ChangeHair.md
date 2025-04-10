@@ -16,4 +16,4 @@ This event replaces the target character's hair with the provided mesh.
 ![Example](example.png)
 
 !!! warning "Loading"
-	Any new referenced hair must be first loaded through the LoadAssets event!
+	Any new referenced hair must be first loaded through the [LoadAssets](../../LoadAssets/LoadAssets.md) event!

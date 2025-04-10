@@ -16,4 +16,4 @@ This event replaces the target character's face with the provided mesh.
 ![Example](example.png)
 
 !!! warning "Loading"
-	Any new referenced face must be first loaded through the LoadAssets event!
+	Any new referenced face must be first loaded through the [LoadAssets](../../LoadAssets/LoadAssets.md) event!

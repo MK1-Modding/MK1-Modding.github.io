@@ -5,7 +5,7 @@ This site provides comprehensive documentation on modding Mortal Kombat 1, from 
 ## 📖 Getting Started
 New to MK1 modding? Start here:
 
-- [Introduction to Modding](getting-started/introduction.md) (WIP)
+- Introduction to Modding (TODO)
 - [UBL Installation Guide](ubl/ubl-install-guide.md)
 
 ## ⚡ Advanced Modding

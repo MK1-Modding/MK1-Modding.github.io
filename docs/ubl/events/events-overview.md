@@ -2,7 +2,7 @@
 
 ### 📌 **How UBL Events Work**
 1. **Blueprint Event is Triggered** → Inside an **Unreal Engine Blueprint**.
-2. **UBLScript Handles the Event** → Processes the logic via **UE4SS Lua scripts**.
+2. **UBL Handles the Event** → Processes the logic via **UE4SS Lua scripts**.
 3. **Mod Behavior Executes** → Changes occur dynamically in-game.
 
 UBL Events allow modders to interact with the game’s mechanics **without modifying the base game files**.
@@ -11,7 +11,7 @@ UBL Events allow modders to interact with the game’s mechanics **without modif
 
 ## 📖 **UBL Event Format & Usage**
 
-All UBL Events in this documentation follow a **standardized format** to ensure consistency.
+All UBL events in this documentation follow a **standardized format** to ensure consistency.
 
 📌 **How to Navigate:**  
 - **Refer to the sidebar** to browse individual event documentation and usage examples.  
